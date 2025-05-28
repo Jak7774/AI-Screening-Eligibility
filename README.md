@@ -42,3 +42,8 @@ import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('wordnet')
+
+## 🙌 Credits
+
+- Developed by Jack Elkes.
+- Built with insights and coding support from [ChatGPT](https://openai.com/chatgpt).
